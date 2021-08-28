@@ -31,5 +31,4 @@ htmlcov/
 
 .github/**
 aws-auth-patch.yml
-aws-auth-patch.yml
 trust.json
